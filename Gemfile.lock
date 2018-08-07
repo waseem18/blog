@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     activesupport (5.1.5)
       concurrent-ruby (~> 1.0, >= 1.0.2)
@@ -92,4 +92,4 @@ DEPENDENCIES
   rb-fsevent (= 0.9.8)
 
 BUNDLED WITH
-   1.16.1
+   1.16.3

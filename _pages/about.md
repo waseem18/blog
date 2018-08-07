@@ -3,20 +3,10 @@ layout: content
 title: About
 permalink: /about/
 ---
-Hi, I'm Johnny and I live in the Shire. Thanks for visiting my site.
+Hi, I'm Wasim and I live in the Hyderabad, India.
 
-I program and write about software development when I have the time. More information can be found through <a href="https://www.linkedin.com/" data-network="LinkedIn" data-proofer-ignore>LinkedIn.</a>
+I'm a Software Engineer with a forte for programming. I love to create meaningful software and contribute to open source projects.
 
-----
+Checkout some of my <a href="/projects">projects</a> and <a href="/opensource">open source contributions</a>.
 
-## The Website
-This site was made on an [Apple MBP](https://www.apple.com/) powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com).
-I'd love to hear your feedback on this site and my work.
-
-----
-
-## Etcetera
-
-- [Instagram](https://www.instagram.com/) for 📸
-- [Facebook](https://www.facebook.com/) for 🕺
-
+I'm also actively looking for a full-time position. Email me and I will be happy to send you my resume.
