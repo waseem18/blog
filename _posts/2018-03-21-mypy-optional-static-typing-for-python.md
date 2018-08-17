@@ -2,7 +2,7 @@
 layout: post
 title: "Mypy - Optional static typing for Python"
 description: "Introduction to type annotations and mypy"
-date: 2018-21-03
+date: 2018-07-21
 tags: jekyll
 comments: true
 ---
