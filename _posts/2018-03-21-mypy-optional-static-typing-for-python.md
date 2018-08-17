@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Mypy - Optional static typing for Python"
+title: "Mypy - Optional static typing for Python - Part 1"
 description: "Introduction to type annotations and mypy"
 date: 2018-07-21
 tags: jekyll
 comments: true
 ---
 
-`mypy` is an experimental static type checker for Python. As Python is a dynamically typed language, mypy aims to combine the benefits of dynamic typing and static typing.
+Mypy  is an experimental static type checker for Python. As Python is a dynamically typed language, mypy aims to combine the benefits of dynamic typing and static typing.
 
 In other words, mypy is like a linter that scans your code and prints out errors if there are any type conflicts.
 
