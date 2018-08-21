@@ -32,6 +32,6 @@ def func(DummyClass):
 # Assigining class to a variable
 a = DummyClass
 
-#Passing class as a parameter to a function
+# Passing class as a parameter to a function
 func(DummyClass)
 ```
