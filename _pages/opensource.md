@@ -6,7 +6,7 @@ permalink: /opensource/
 
 - [pypa/warehouse](https://github.com/pypa/warehouse/pulls?q=is%3Apr+author%3Awaseem18+is%3Aclosed)
   
-  <br><br>
+  <br>
 
   Notable work includes :
   
@@ -16,10 +16,10 @@ permalink: /opensource/
   * Sending of email notifications whenever events fire up
   
   
-
+ <br><br>
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server/pulls?q=is%3Apr+author%3Awaseem18+is%3Aclosed)
 
-  <br><br>
+  <br>
 
   Notable work includes :
   
