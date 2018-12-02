@@ -12,3 +12,9 @@ I love working with Distributed Systems and Infrastructure.
 Checkout some of my <a href="/projects">projects</a> and <a href="/opensource">open source contributions</a>.
 
 I'm also actively looking for a full-time position. Email me and I will be happy to send you my resume.
+
+----
+
+### Email 
+
+wasim@thabraze.me
