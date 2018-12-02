@@ -17,4 +17,4 @@ I'm also actively looking for a full-time position. Email me and I will be happy
 
 ### Email 
 
-wasim@thabraze.me
+###### wasim@thabraze.me
