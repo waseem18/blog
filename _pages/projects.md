@@ -4,9 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
+- [mattermost-plugin-google-calendar](https://github.com/waseem18/mattermost-plugin-google-calendar) - Mattermost plugin for Google Calendar. In development.
 - [node-rake](https://github.com/waseem18/node-rake) - A NodeJS implementation of the Rapid Automatic Keyword Extraction algorithm. Featured in [node weekly](https://nodeweekly.com/issues/170).
 <br><br>
-- [redeasy](#) - A simple and secure wrapper around Redis. Work in progress.
+- [redeasy](#) - A simple and secure wrapper around Redis.
 <br><br>
 - [Hacks](https://github.com/waseem18/hacks) - A Linux terminal utility to find upcoming hackathons near you or at a particular location.
 <br><br>
