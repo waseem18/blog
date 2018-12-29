@@ -3,7 +3,7 @@ layout: content
 title: Talks
 permalink: /talks/
 ---
-- [Pragma'19](http://pragmaconf.tech) - Got an upcoming talk on the topic **Jumpstart to Docker** at Pragma, which is the annual tech conference of IIIT Allahabad, India. (Upcoming)
+- [Pragma'19](http://pragmaconf.tech) - Going to speak at Pragma, an annual tech conference of IIIT Allahabad, India on the topic **Jumpstart to Docker**. (Upcoming)
 <br><br>
 - [PyBITS](https://bits-atmos.org/pybits) - Gave a talk on the topic **Optional Static Typing for Python** at PyBITS, India.
   * Slides - [https://goo.gl/QAgAtL](https://goo.gl/QAgAtL)
