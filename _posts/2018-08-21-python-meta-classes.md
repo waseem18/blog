@@ -71,7 +71,7 @@ ExampleType = Tuple[int, str, List[int]]
 data: ExampleType = (3, "Python" [1, 2, 3])
 ```
 
-##Creating your own types
+## Creating your own types
 
 In Python 3.5 a new function is introduced in typing called NewType. This allows you to create distinct types. The static type checker will treat the new type as if it were a subclass of the original type. You may still perform all int operations on a variable of type UserId, but the result will always be of type `int`.
 
