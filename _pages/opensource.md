@@ -4,6 +4,13 @@ title: Notable Open source contributions
 permalink: /opensource/
 ---
 
+- [google/go-github](https://github.com/google/go-github/pulls?q=is%3Apr+author%3Awaseem18+is%3Aclosed+review%3Aapproved)
+  
+  <br>
+  
+  * Added API support to update the branch of a pull request.
+  * Added interaction restrictions API for both organizations and repositories.
+
 - [pypa/warehouse](https://github.com/pypa/warehouse/pulls?q=is%3Apr+author%3Awaseem18+is%3Aclosed)
   
   <br>
