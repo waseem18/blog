@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Notable Open source contributions
+title: Notable open source contributions
 permalink: /opensource/
 ---
 
